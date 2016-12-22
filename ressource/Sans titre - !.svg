@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1280px" height="800px" viewBox="0 0 1280 800" enable-background="new 0 0 1280 800" xml:space="preserve">
+<g id="animation">
+	<g id="lune">
+		<circle id="lune_1_" fill="#FFFF00" cx="640" cy="399" r="327.994"/>
+		<text id="name" transform="matrix(1 0 0 1 366.9976 417.916)" fill="#003366" font-family="'Algerian'" font-size="65">HAPPY NEW YEAR</text>
+	</g>
+	<circle id="eclipse_1_" fill="#003366" cx="639.994" cy="401" r="327.994"/>
+</g>
+<g id="animation_1_">
+	<g id="lune_2_">
+		<circle id="lune_3_" fill="#FFFF00" cx="639" cy="399" r="327.994"/>
+		<text id="name_1_" transform="matrix(1 0 0 1 365.9976 417.916)" fill="#003366" font-family="'Algerian'" font-size="65">HAPPY NEW YEAR</text>
+	</g>
+	<circle id="eclipse_2_" fill="#003366" cx="638.994" cy="401" r="327.994"/>
+</g>
+<g id="animation_2_">
+	<g id="lune_4_">
+		<circle id="lune_5_" fill="#FFFF00" cx="639" cy="398" r="327.994"/>
+		<text id="name_2_" transform="matrix(1 0 0 1 365.9976 416.916)" fill="#003366" font-family="'Algerian'" font-size="65">HAPPY NEW YEAR</text>
+	</g>
+	<circle id="eclipse_3_" fill="#003366" cx="638.994" cy="400" r="327.994"/>
+</g>
+<g id="animation_3_">
+	<g id="lune_6_">
+		<circle id="lune_7_" fill="#FFFF00" cx="640" cy="398" r="327.994"/>
+		<text id="name_3_" transform="matrix(1 0 0 1 366.9976 416.916)" fill="#003366" font-family="'Algerian'" font-size="65">HAPPY NEW YEAR</text>
+	</g>
+	<circle id="eclipse_4_" fill="#003366" cx="639.994" cy="400" r="327.994"/>
+</g>
+<g id="animation_4_">
+	<g id="lune_8_">
+		<circle id="lune_9_" fill="#FFFF00" cx="640" cy="399" r="327.994"/>
+		<text id="name_4_" transform="matrix(1 0 0 1 366.9976 417.916)" fill="#003366" font-family="'Algerian'" font-size="65">HAPPY NEW YEAR</text>
+	</g>
+	<circle id="eclipse_5_" fill="#003366" cx="639.994" cy="401" r="327.994"/>
+</g>
+<g id="animation_5_">
+	<g id="lune_10_">
+		<circle id="lune_11_" fill="#FFFF00" cx="641" cy="399" r="327.994"/>
+		<text id="name_5_" transform="matrix(1 0 0 1 367.9976 417.916)" fill="#003366" font-family="'Algerian'" font-size="65">HAPPY NEW YEAR</text>
+	</g>
+	<circle id="eclipse_6_" fill="#003366" cx="640.994" cy="401" r="327.994"/>
+</g>
+<g id="animation_6_">
+	<g id="lune_12_">
+		<circle id="lune_13_" fill="#FFFF00" cx="641" cy="398" r="327.994"/>
+		<text id="name_6_" transform="matrix(1 0 0 1 367.9976 416.916)" fill="#003366" font-family="'Algerian'" font-size="65">HAPPY NEW YEAR</text>
+	</g>
+	<circle id="eclipse_7_" fill="#003366" cx="640.994" cy="400" r="327.994"/>
+</g>
+<g id="animation_7_">
+	<g id="lune_14_">
+		<circle id="lune_15_" fill="#FFFF00" cx="640" cy="398" r="327.994"/>
+		<text id="name_7_" transform="matrix(1 0 0 1 366.9976 416.916)" fill="#003366" font-family="'Algerian'" font-size="65">HAPPY NEW YEAR</text>
+	</g>
+	<circle id="eclipse_8_" fill="#003366" cx="639.994" cy="400" r="327.994"/>
+</g>
+<g id="background">
+	<path fill="#003366" d="M-0.006,0v800h1280V0H-0.006z M639.994,727.994C458.848,727.994,312,581.146,312,400
+		c0-181.146,146.848-327.994,327.994-327.994c181.146,0,327.994,146.848,327.994,327.994
+		C967.988,581.146,821.141,727.994,639.994,727.994z"/>
+	<g id="stars">
+		<path fill="#FFFF00" d="M247.677,634.28l13.243-41l13.244,41l-34.832-25.398h43.177L247.677,634.28z"/>
+		<path fill="#FFFF00" d="M163.37,716.132l13.243-41l13.244,41l-34.832-25.397h43.177L163.37,716.132z"/>
+		<path fill="#FFFF00" d="M452.821,92.506l13.243-41l13.243,41l-34.832-25.398h43.178L452.821,92.506z"/>
+		<path fill="#FFFF00" d="M156.831,349.568l13.243-41l13.244,41l-34.832-25.398h43.177L156.831,349.568z"/>
+		<path fill="#FFFF00" d="M200.008,103.005l13.243-41l13.244,41l-34.832-25.398h43.177L200.008,103.005z"/>
+		<path fill="#FFFF00" d="M1078.106,251.632l13.241-41l13.244,41l-34.832-25.398h43.177L1078.106,251.632z"/>
+		<path fill="#FFFF00" d="M396.971,757.132l13.242-41l13.244,41l-34.832-25.397h43.177L396.971,757.132z"/>
+		<path fill="#FFFF00" d="M733.15,777.632l13.243-41l13.244,41l-34.832-25.397h43.177L733.15,777.632z"/>
+		<path fill="#FFFF00" d="M1092.519,727.994l13.242-41l13.244,41l-34.832-25.398h43.178L1092.519,727.994z"/>
+		<path fill="#FFFF00" d="M77.15,525.719l13.243-41l13.244,41L68.806,500.32h43.177L77.15,525.719z"/>
+		<path fill="#FFFF00" d="M1004.323,113.006l13.242-41l13.243,41l-34.832-25.398h43.179L1004.323,113.006z"/>
+		<path fill="#FFFF00" d="M298.763,210.632l13.243-41l13.244,41l-34.832-25.398h43.177L298.763,210.632z"/>
+		<path fill="#FFFF00" d="M1092.519,484.719l13.243-41l13.244,41l-34.832-25.397h43.177L1092.519,484.719z"/>
+		<path fill="#FFFF00" d="M954.743,654.78l13.243-41l13.243,41l-34.832-25.398h43.178L954.743,654.78z"/>
+		<path fill="#FFFF00" d="M833.144,92.506l13.242-41l13.244,41l-34.832-25.398h43.176L833.144,92.506z"/>
+	</g>
+	<path fill="#131D3E" d="M452.624,349.568c-40.938,0-78.53,19.344-102.344,51.063c-8.391-2.032-16.953-3.063-25.656-3.063
+		c-61.75,0-112,50.25-112,112c0,1.563,0.031,3.094,0.095,4.625c-46.267,13.75-80.094,56.688-80.094,107.375
+		c0,61.75,50.25,112,112,112h272c70.595,0,128.001-57.406,128.001-128c0-46.656-25.656-88.813-65.156-111.125
+		c0.781-5.563,1.156-11.219,1.156-16.875C580.625,407.006,523.218,349.568,452.624,349.568L452.624,349.568z"/>
+	<path fill="#131D3E" d="M857.674,29.422c-40.938,0-78.529,19.344-102.344,51.063c-8.391-2.032-16.953-3.063-25.656-3.063
+		c-61.75,0-112,50.25-112,112c0,1.563,0.031,3.094,0.096,4.625c-46.267,13.75-80.095,56.688-80.095,107.375
+		c0,61.75,50.25,112,111.999,112h272c70.596,0,128.002-57.406,128.002-128c0-46.656-25.656-88.813-65.156-111.125
+		c0.781-5.563,1.156-11.219,1.156-16.875C985.676,86.86,928.268,29.422,857.674,29.422L857.674,29.422z"/>
+</g>
+</svg>
