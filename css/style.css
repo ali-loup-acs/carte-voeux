@@ -1,21 +1,65 @@
-@keyframes translate{
-  from {transform: translate(0%,0%);}
-  to {transform: translate(100%,0%);}
-}
+  @keyframes translate{
+    from {transform: translate(0%,0%);}
+    to {transform: translate(51.5%,0%);}
+  }
 
-@keyframes scale{
-    from {transform: scale(1);transform-origin: center;}
-    to {transform: scale(1.5);transform-origin: center;}
-}
+  @keyframes nuageL{
+    from {transform: translate(0%,0%);}
+    to {transform: translate(-25%,0%);}
+  }
+  @keyframes nuageR{
+    from {transform: translate(0%,0%);}
+    to {transform: translate(33%,0%);}
+  }
 
-#eclipse_1_{
-    animation-name: translate;
-    animation-duration: 10s;
-    animation-timing-function: ease-in-out;
-}
-svg{
-  transform: scale(0.5);
-}
+  @keyframes scale{
+      from {transform: scale(1);transform-origin: center;}
+      to {transform: scale(1.5);transform-origin: center;}
+  }
+
+  #eclipse_7_{
+      animation-name: translate;
+      animation-duration: 5s;
+      animation-fill-mode: forwards;
+      animation-delay: 1s;
+      animation-timing-function: ease-in-out;
+  }
+
+  #nuage_left{
+    animation-name: nuageL;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+  }
+
+  #nuage_right{
+    animation-name: nuageR;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+  }
+  input,  header h2, main, form {
+    font-family: algerian;
+    color: #003973;
+  }
+  header h2, main, form, fieldset {
+    width:50%;
+    margin: auto;
+  }
+  fieldset{
+    border-style: none;
+  }
+  main{
+    height:50%;
+  }
+  svg{
+    border: 0.5em #003973 dashed;
+  }
+
+  #submit{
+    color: #FFFF00;
+    background-color: #131D3E;
+  }
 /*#background {
   fill : green;
 }*/
